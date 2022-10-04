@@ -1,15 +1,21 @@
+<<<<<<< HEAD
 [submodule "libevent"]
 	path = libevent
 	url = https://github.com/libevent/libevent
+=======
+>>>>>>> 120de0e0ca62d07e429514319f3c046cb04c4a9a
 [submodule "deps/libevent"]
 	path = deps/libevent
 	url = https://github.com/libevent/libevent
 [submodule "deps/googletest"]
 	path = deps/googletest
 	url = https://github.com/google/googletest
+<<<<<<< HEAD
 [submodule "deps/deps/jsoncpp"]
 	path = deps/deps/jsoncpp
 	url = https://github.com/open-source-parsers/jsoncpp.git
+=======
+>>>>>>> 120de0e0ca62d07e429514319f3c046cb04c4a9a
 [submodule "deps/jsoncpp"]
 	path = deps/jsoncpp
 	url = https://github.com/open-source-parsers/jsoncpp.git
